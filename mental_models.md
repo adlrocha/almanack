@@ -19,3 +19,5 @@
 1. Find your purpose in life. Purpose will drive your happiness and help you make the right decisions. Let this be have kids and make a family, solve a problem that you are passionate about, or reach financial independence. Find your purpose and let it guide you.
 
 1. _"Invert, always invert"_. Sometimes the hard problems in life need to be solved from the other side. 
+
+1. The man who needs a new machine tool and hasn't bought it is already paying for it. If you don't have the right thinking tools, you and the people you seek to help are already suffering from your easily removable ignorance.
