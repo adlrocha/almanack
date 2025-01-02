@@ -21,3 +21,5 @@
 1. _"Invert, always invert"_. Sometimes the hard problems in life need to be solved from the other side. 
 
 1. The man who needs a new machine tool and hasn't bought it is already paying for it. If you don't have the right thinking tools, you and the people you seek to help are already suffering from your easily removable ignorance.
+
+1. When thinking about your habits, goals, and time management always subtract before adding.
