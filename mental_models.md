@@ -8,6 +8,8 @@
 
 1. Life is hard, and it is not fair. The sooner you accept this, the better off you'll be, but it is worth every second of it.
 
+1. Dedicating money on your knowledge and improving your skills has a compounding effect. Do not hesitate to spend money on making yourself more attractive to the market (and society overall). It may bail you out in times of crisis.
+
 1. Write a diary and meditate. It will help you understand yourself better and make better decisions. Like saving and investing your money, these are habits that compound.
 
 1. Some habits are compounding, and you need to persist to see the results. If you think they are good for you, stick to them.
@@ -23,3 +25,5 @@
 1. The man who needs a new machine tool and hasn't bought it is already paying for it. If you don't have the right thinking tools, you and the people you seek to help are already suffering from your easily removable ignorance.
 
 1. When thinking about your habits, goals, and time management always subtract before adding.
+
+1. When spending money in something, do not think on their absolute price, but the percentage of your monthly (or yearly) salary of what you are buying, its utility in time, and the time required to amortise it. This will help you make better buying decisions, to not to hesitate to spend money on important things, and not to waste time on trying to find discounts or bargains when it only represents a small percentage of your total income.

@@ -68,3 +68,121 @@ i = (( Final value / Present value ) ^ (1/n)) - 1
 > Note: Focus your portfolio with a percentage following the index, and the rest in a small number of good bets to enhance the expected return.
 
 > Note: Keep the thesis for the companies and markets that I want to invest with the target price and wait for the crash to invest when the prices go down.
+
+## Financial Planning
+> One should always have 1-year of emergency fund in (strict) liquidity before investing to protect themselves against crisis and unexpected situations.
+> - That way you will not need to liquidate your investment in the worst possible case (which is potentially when you'll need it).
+
+- Financial planning is all about defining your investor profile (in terms of risks), and your investment goals.
+  - In my case I am a long-term investor that is able to handle risk well (crypto, you know?). And the goals I am after by investing are: __financial freedom, safety, and knowledge__
+- Depending on your age your investment goals and asset allocation may (and will) change.
+
+> When in retirement, or at the end of your investment life, it would be good to not liquidate __over a 3% of your total assets__ to prevent from harming the effects of compound interest.
+
+- Always teach financial education to your kids. Give them the tools to protect their net worth, and grow it.
+  - If you end up leaving them with some assets, this will ensure that they know how to handle them and grow them.
+
+### Personal Balance Sheet
+- Asset: What you have
+- Liabilities: What you owe (debt)
+- Net Worth: The final balance (savings)
+
+- Liabilities are used to finance the assets
+- It may be useful to understand the short-term and long-term liabilities to understand the balance.
+```
+Example:
+Assets
+----
+Cash  = 2000 
+Car = 8000 
+Home = 150000
+Investment = 10000
+
+Liabilities
+-----
+Mortgage = 80000
+
+Net Worth
+------
+Net Worth = 61000
+```
+
+- To understand the savings and cash flow of the house. The savings go immediately to net worth
+```
+Income
+---
+Expenses
+---
+Savings     ------> Net worth.
+```
+- Savings should be invested to profit yourself and protect against inflation (i.e. economical freedom)
+
+> Your saving rates should be ideally >20% of your income.
+
+- The Free Cash Flow is the liquidity that you have available after all your expenses.
+- Assets should be productive. Try to avoid unproductive assets.
+- Your own house could be considered a toxic asset because it doesn't make profit and its value may go down.
+- Focus on profitable assets and increase your income.
+
+### Financial Instruments
+- Bank deposits
+- Guaranteed funds: Investment funds that ensure a specific rate.
+  - High fees
+- Saving insurances: Guaranteed rate, but is low.
+- Public debt (government debt)
+- Corporate debt: Higher rate than public debt
+  - Index funds and ETF is a good way to access corporate debt
+- Mixed investment funds
+- Equity investment funds
+- Stocks
+  - In many cases it may be better than investing in investment funds and you can minimise the risk if you have analyse the stocks you invest in (through the price/intrinsic value of the stock security margin)
+- Commodities
+  - Usually through investment funds
+
+### Savings
+> Pay yourself first. - Kiyosaky
+
+> To become rich there are only to things: work and savings. - Benjamin Franklin
+
+- Credit expansions impact your savings (in the current economic model).
+
+### Credit expansion v.s. true savings
+- What happens when there is a credit expansion?
+ 1. Increases the price of the source production factors.
+  - Prices increase closer to the consumer and therefore reduce the incentive of being farther from it.
+  - Companies can use credit to finance them.
+ 2. Consumer product prices increase because the demand increases.
+  - Artificial profits on consumer corporations because it is financed by credits and people don't buy only what they need.
+ 3. Increase the price on consumer products but salaries and productive factors do not increase.
+  - Worker productivity is not rewarded when there are credit expansions
+  - Consumer corporations like Amazon,
+ 4. Ricardo effect.
+  - "Salaries should be estimated through their real value, i.e. the amount of work and capital used to produce them, not by their nominal value in coats, hats or money"
+  - Consumer products and assets increase their prices while salaries do not increase as much.
+  - Businessmen are incentivised to hire cheap labour.
+ 5. Interest rates go up.
+  - Reverted after the crisis.
+  - With high rates there is a fight for liquidity among the economic agents.
+ 6. Losses on corporations that are farther from the consumer (e.g. commodities, industry, etc.)
+  - They are really leveraged and they can't refinance their debt.
+- Credit expansions only incentivise first-order products because there is short-term thinking. There is no investment in productivity boots (through machinery, investing on improvements, etc.).
+  
+
+> Book recommendation: "Dinero, credito bancario y ciclos económicos" - Huerta de Soto
+
+- Financing your own personal assets through credit expansion makes you vulnerable to the macroeconomic landscape and the economic cycle.
+  - Buying assets through savings can shield you against this effect (to some extent)
+  - An excess of leverage is risky.
+
+> Do not get debt for non-lasting products (cars, houses that only produce losses, luxury, travelling, etc.)
+
+> Invest on day 1 of the month to pay yourself first (your savings first)
+
+## Economic foundations
+- Corporations are entities that arbitrate with scarcity.
+  - They take low-value assets and commodities, and transform them into high-value consumer products that are fulfilling a need.
+- Analysing demand and supply elasticity is key to understand how a product (or company) can be impacted by the different economic cycles and consumer behaviors.
+![Elasticity : Elasticity of Demand | Definition | Economics | Formula ...](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-puYbHIf7ZGo%2FXL1DgCbc-TI%2FAAAAAAAABrs%2FFIDy84ZapyQNtnkxh5r0vEHjBLIXpPqfwCLcBGAs%2Fs1600%2FPrice-Elasticity-of-Demand-Curve.jpg&f=1&nofb=1&ipt=662b40e738260732622451c34f36c9348131db95b5e9ecb905e389e5e6d85b08&ipo=images)
+![Using the Supply-and-Demand Framework](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsaylordotorg.github.io%2Ftext_microeconomics-theory-through-applications%2Fsection_11%2Ffc29ff534ed9caa47f3a4a6c101bbea0.jpg&f=1&nofb=1&ipt=c13de0b8c574487160f97508f1e422f212f667042c2ad7e2824b0ae0007a4bb7&ipo=images)
+- It is important to understand that corporations do not determine the price of their products depending on their costs. __Generally, they try to adjust their costs according to the price they can ask for their product__.
+  - On top of this, buyers will determine the intrinsic value (and utility) that this product brings them (that should be higher than their price for the product to be bought)

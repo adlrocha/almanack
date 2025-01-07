@@ -16,3 +16,5 @@
 1. On monetary inflation: the effect of issuing more FIAT money (through central bank policies, government debts, or commercial bank deposits) is the same as when investors holding stocks are diluted after a new round of investment. When you hold FIAT, you are implicitly an investor on that currency, and you can be diluted by the central bankers, commercial banks, and/or states that control it.
 
 1. When investing in stocks as a financial instrument think of them broadly speaking as bonds, that generate future cash flows yearly. The company that you invest in should be capable of maintaining this bond-like behavior long-term.
+
+1. Debt is not bad (without it we wouldn't have the global prosperity that we are experiencing), but excess of debt is risky. Even an excess of capital can be risky because it leads to bad decisions. Having money without knowing what to do with it leads to bad decisions.
