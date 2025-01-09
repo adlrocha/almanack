@@ -92,18 +92,18 @@ i = (( Final value / Present value ) ^ (1/n)) - 1
 ```
 Example:
 Assets
-----
+==
 Cash  = 2000 
 Car = 8000 
 Home = 150000
 Investment = 10000
 
 Liabilities
------
+==
 Mortgage = 80000
 
 Net Worth
-------
+==
 Net Worth = 61000
 ```
 
@@ -186,3 +186,209 @@ Savings     ------> Net worth.
 ![Using the Supply-and-Demand Framework](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsaylordotorg.github.io%2Ftext_microeconomics-theory-through-applications%2Fsection_11%2Ffc29ff534ed9caa47f3a4a6c101bbea0.jpg&f=1&nofb=1&ipt=c13de0b8c574487160f97508f1e422f212f667042c2ad7e2824b0ae0007a4bb7&ipo=images)
 - It is important to understand that corporations do not determine the price of their products depending on their costs. __Generally, they try to adjust their costs according to the price they can ask for their product__.
   - On top of this, buyers will determine the intrinsic value (and utility) that this product brings them (that should be higher than their price for the product to be bought)
+
+### Lifecycle of technological product
+- Ideally, one should invest when some technology has just crossed the chasm and the pragmatists are starting to use it.
+- Many people have made themselves rich investing in companies that haven't yet crossed the chasm (generally startups), but one incurs in way more risk.
+![](https://e7.pngegg.com/pngimages/104/809/png-clipart-crossing-the-chasm-inside-the-tornado-marketing-strategies-from-silicon-valley-s-cutting-edge-technology-adoption-life-cycle-technology-sense-line.png)
+
+### Natural and legislative monopolies
+- Natural monopolies are great investments (as long as there is no regulation cutting their wings).
+  - Generally these monopolies are achieved through innovation, technology, know-how, and business disruption.
+  - This monopolies foster the competition from other players that want to disrupt the current big players.
+- Legislative monopolies require the state to continue their status and they are not as efficient and innovative (as there is no competition).
+
+### Macroeoconomic indicators
+- Economic cycles shouldn't be studied through debt, but the liquidity in the system.
+  - Liquidity determines if debt can be paid with current cash flows.
+- Main macroeconomic indicators: These are useful to understand the environment (and country) where we are investing:
+
+  - Credit supply
+    - Central bank balance (expansive or restrictive policy)
+    - Long-term or short-term debt given to governments and banks.
+    - Balance of commercial banks.
+    - Are new bank reserves being created and money being issued?
+    - Bank reserve rates.
+    - There are webs that allow you to inspect this.
+
+  - Credit demand
+    - Demand for credits from families and corporations.
+    - Percentage of mortgages costs for families.
+    - Late payments and defaults.
+
+  - Interest rate
+    - Long-term and short-term interest rate.
+    - The rate curve, and understand if it has been inverted.
+      - Arbitrage is possible when the rate from the short-term and the long-term is really close.
+      - The interest rate should be higher always in the long-term.
+      - The inversion of the curve happens when there is an extreme search of liquidity by all economic agents.
+      - The interest rate should also be increasing (if not something weird is happening).
+    - What is the different between public and private debt.
+
+  - Activity and expectations
+    - GDP
+    - Expenses in construction
+    - Retail sales
+    - Industrial incomes
+    - And any other metric that is related to the economic activity of a country or a region.
+
+  - Employment: It gives some insights about the health of the economy
+    - Unemployment rate
+    - Employment costs for companies.
+    - Rate of occupation.
+    - Salaries increases.
+
+  - Price and costs (CPI)
+    - Inflation rate or deflation
+    - Price per square meter.
+    - Case Schiller index and GDP
+    - Index marketcap and prices, PER, EV/EBITDA multiples, asset prices, etc.
+    - Stocks evolution
+
+  - External balances (exchange rates, etc.)
+    - Imports and exports.
+    - Exchange and currency rates.
+    - External balance.
+
+  - Public/State finances
+    - State budgets.
+    - Regulation security. Market freedom.
+    - Total debt of the state
+
+### Economic cycle
+> Understood through the degradation of liquidity (Juan Ramón Rallo)
+- Boom (liquidity degradation): Less liquidity by agents.
+  - A lot of mortgages and credit. A lot of long-term leverage.
+  - Cheap debt leads to a lot of credit and more long-term debt.
+  - Unemployment close to zero.
+  - Prices go up and lasting assets increase their price.
+  - Individuals are reckless and start making a lot of bad decisions.
+
+- Crisis (fight for liquidity): Less liquidity supply.
+  - From boom to depression. They fight for debt. Banks harm their balances and is full or risk and they have to limit their leverage.
+  - Debt is given to people that are more risky (everyone else may have debt).
+  - Interest rates in the short-term go up and there is an inversion.
+  - GDP is still high, but expectations start going up.
+  - Unemployment starts raising at industries farther from consumers.
+  - Prices don't go up as much.
+  - In this stage people do not yet realise that a crisis is coming and there may be a problem coming.
+
+- Liquidation (depression): The actual crisis, with defaults, unemployment, etc.
+  - The actual crisis.
+  - Refinance and deleverage. This leads to the sell-off of many assets to get liquidity.
+  - The debt supply goes down and there are a lot of defaults, and banks balances are really impacted (and dome may die).
+  - Savings start going up in order to deleverage.
+  - Unemployment go up. 
+  - Interest rates go down because the demand for liquidity goes down.
+  - This is why liquidity is useful in this stage.
+  - Prices start going down.
+  - Public states start being harmed and there may be risks of defaults for countries. 
+    - Lot of debt and taxes go down.
+
+- Recapitalisation (recovery): Agents start deleveraging and the economy recovers
+  - Credit offer raise again and many entities have de-leveraged.
+  - Prices start going up after the liquidations from the previous stage.
+  - GDP starts going up.
+  - Expectations increase.
+  - Unemployment start going down again.
+
+> Always have some liquidity available when the liquidation stage is approaching.
+
+  > These is an Austrian approach for the economic cycle, but this hasn't been the case lately where central banks are injecting a lot of liquidity to banks when indicators glimpse a crisis. The issue with drowning with liquidity the economy is that it "zombifies" it (like it has happened in Japan in the last few decades).
+
+### Juglar Cycles and Kondratieff Seasons
+
+  ![Distribution of Kondratiev, Kuznets, Juglar and Kitchen cycles ...](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FIvo-Yotsov%2Fpublication%2F372287971%2Ffigure%2Ffig1%2FAS%3A11431281174113035%401689139034173%2FDistribution-of-Kondratiev-Kuznets-Juglar-and-Kitchen-cycles.png&f=1&nofb=1&ipt=bf71fcc79fa6c5017bee174618675ba8e28f926c61ed8d439ed262fba3f16e41&ipo=images)
+  ![Ciclos de Kondratieff](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ftodoproductosfinancieros.com%2Fwp-content%2Fuploads%2F2010%2F10%2Fmedium.jpg&f=1&nofb=1&ipt=5b41e921650ee1bebdf34cf7c1ea67e1398a35b7ef9c185e67fa2dce7255646e&ipo=images)
+  - Joseph Schumpeter said that there were several simultaneous economic cycles.
+    - Kitchin Cycle: 3 years
+
+    - Juglar Cycle: 10 years (business cycle)
+      - Availability of assets (i.e. liquidity)
+      - Similar to the liquidity cycles from Juan Ramón Rallo.
+      - Spread between high-quality and low-quality credit starts being harmed when the cycles is ending
+        - Credit curve inverts.
+      - Similar seasons and indicators as in the liquidity seasons.
+
+    - Kondratieff cycle: 50-60 years (4 seasons of around 15 years)
+      - Long-term economic cycles.
+      - ~ 2 Juglar cycles per season
+      - He came up with these by studying macroeconomic indicators.
+        - He realised prices and interest rates was what impacts more the economic cycles and the change of "cycle seasons"
+      - Summer (estanflation)
+      - Autumn (desinflation)
+        - Autumn is the best season to invest in the stock market.
+      - Winter (deflation): Bad season for stock markets. It start surfacing some companies defaults. Prices go down, interest rates go down.
+      - Spring (reflation): Also a good season for the stock market. Prices start going up and there is monetary stimulus from public administrations.
+        - This leads to the zombification of the economy because there is a lot of monetary stimulus.
+
+  ![Economic Cycle Analysis Center: Macro Economic Cycle](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F_zq0BtYfc9qY%2FTPLC4IthlEI%2FAAAAAAAAABs%2FvwOoZwd-GLo%2Fs1600%2FThe%2BKONDRATIEFF.JPG&f=1&nofb=1&ipt=0f7a771d175874886e821de2d9355a3b58e918c7d3236757f0c4a39d58823c79&ipo=images)
+
+  > Recommended Readings:
+  > * Socialismo, cálculo económico y función empresarial - Jesús Huerta de Soto
+  > * Dinero, Crédito Bancario y Ciclos Económicos - Jesús Huerta de Soto
+  > * Economic cycles - Joseph Schumpeter
+
+### Source for macroeconomic indicators.
+  - Main source for indicators.
+    - https://tradingeconomics.com/countries
+
+  - Credit supply
+    - https://fred.stlouisfed.org/
+    - https://www.federalreserve.gov/releases/z1/
+    - https://www.federalreserve.gov/releases/h41/
+    - https://www.ecb.europa.eu/pub/annual/balance/html/index.en.html
+    - https://www.bde.es/bde/es/areas/estadis/
+    - https://www.bde.es/bde/es/areas/estadis/Estadisticas_por_publicaciones.html
+    - https://economipedia.com/definiciones/coeficiente-de-caja.html
+
+  - Credit demand
+    - https://fred.stlouisfed.org/
+    - https://www.federalreserve.gov/releases/z1/
+    - https://www.federalreserve.gov/releases/h41/
+    - https://www.bde.es/bde/es/areas/estadis/
+    - https://www.bde.es/bde/es/areas/estadis/Estadisticas_por_publicaciones.html
+
+  - Interest rates
+    - https://www.gurufocus.com/yield_curve.php
+    - https://fred.stlouisfed.org/
+    - https://www.federalreserve.gov/releases/z1/
+    - https://www.bde.es/bde/es/areas/estadis/
+    - https://www.bde.es/bde/es/areas/estadis/Estadisticas_por_publicaciones.html
+
+  - Actividad y expectativas
+    - https://fred.stlouisfed.org/
+    - https://www.bde.es/bde/es/areas/estadis/
+    - https://ec.europa.eu/eurostat/home?
+    - https://www.ine.es/
+
+  - Employment
+    - https://fred.stlouisfed.org/
+    - https://www.bde.es/bde/es/areas/estadis/
+    - https://ec.europa.eu/eurostat/home?
+    - https://www.ine.es/
+
+- Cost and prices
+  - https://www.gurufocus.com/global-market-valuation.php
+  - https://fred.stlouisfed.org/
+  - https://www.bde.es/bde/es/areas/estadis/
+  - https://ec.europa.eu/eurostat/home?
+  - https://www.ine.es/
+  - https://www.imf.org/external/spanish/index.htm
+
+- Exchange rates and external balance
+  - https://fred.stlouisfed.org/
+  - https://www.bde.es/bde/es/areas/estadis/
+  - https://ec.europa.eu/eurostat/home?
+  - https://www.ine.es/
+  - https://www.imf.org/external/spanish/index.htm
+
+- Public finances
+  - https://fred.stlouisfed.org/
+  - https://www.bde.es/bde/es/areas/estadis/
+  - https://ec.europa.eu/eurostat/home?
+  - https://www.ine.es/
+  - https://www.imf.org/external/spanish/index.htm
+
+## Passive Investment
+
