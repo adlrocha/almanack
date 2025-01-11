@@ -27,3 +27,5 @@
 1. When thinking about your habits, goals, and time management always subtract before adding.
 
 1. When spending money in something, do not think on their absolute price, but the percentage of your monthly (or yearly) salary of what you are buying, its utility in time, and the time required to amortise it. This will help you make better buying decisions, to not to hesitate to spend money on important things, and not to waste time on trying to find discounts or bargains when it only represents a small percentage of your total income.
+
+1. It's not bringing in the new ideas what is hard. It's getting rid of the old ones.
