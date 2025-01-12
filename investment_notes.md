@@ -391,4 +391,129 @@ Savings     ------> Net worth.
   - https://www.imf.org/external/spanish/index.htm
 
 ## Passive Investment
+- Indices is an average of certain stocks from a market. They can be weighted by market cap (e.g. SP500), or by stock price (Dow Jones)
+- VIX is a good index to understand the volatility of the market. It is computed through options of the S&P500.
+  - PUT options are trying to sell options to cover themselves from potential crashes. If PUT prices for the SP500 increases it increase the VIX value
 
+> When VIX goes over 50 and in the same year it returns below 50 it may be useful to put some money on an SP500 index fund because it means that it has gone down to a point where the profit can be maximised. It signs high-volatility years. Only the next year you increase the amount invested in funds
+
+### Biggest index managers
+- Amundi
+- iShares de Blackrock
+- Fidelity Investment
+- Schwab (no disponible en España)
+- Pictet
+- Vanguard
+
+### Fees and UCITs regulation
+- ESMA regulation: Inability to invest in US ETFs
+  - This increases the fees for ETFs
+  - Smaller size than their US counterparts increasing fees and costs.
+- UCITs regulation
+  - Only professional investors can invest in US assets.
+  - UCITs funds are the only vehicle that individual investors can invest in funds and ETFs in the US market.
+  - This is what we currently use in Europe to invest in Vanguard funds.
+
+### BogleHeads Portfolio
+- Check https://boggleheads.es for some ideas of how to build a BogleHeads portfolio
+
+  > Recommended Readings:
+  > * The Little Book of Common Sense Investing - John C. Bogle
+  > * How to invest on investment funds with common sense - John C. Bogle
+
+### Resources to work with indices
+- https://www.koyfin.com/home
+- https://www.msci.com/real-time-index-data-search
+- https://es.tradingview.com/
+- https://tradingeconomics.com/stocks
+- https://es.investing.com/indices/indices-futures
+
+## Semi-Passive Investment
+Strategies to invest in indices.
+- Dollar cost average
+- Market timing through when inflation raises or there is a crash.
+- Use VIX and insiders insights 
+
+> Recommended book: La Guerra Financiera Asimétrica - David Núñez Longueira, Santiago Casal Pereira
+
+- Semi-passive investment consists of: 
+  - An emergency fund.
+  - Index funds as the base
+  - A small number of well-analysed companies for active investment.
+
+- __The IED (Improvised Explosive Device)__
+  - Choose a yearly amount to invest in the index.
+  - Every year we increase the amount adding up the inflation of that year.
+  - If the index went down, you x2 the amount invested, x3 for the third year and so on with the corresponding inflation correction.
+  - When the market returns to positive returns, you go back to your initial amount with the corresponding inflation
+
+- __Insiders strategy__
+  - Use gurufocus.com for this.
+  - Insiders are corporate managers that need to publicise their buys and sells.
+  - gurufocus.com/insiders/summary - shows if insiders are buying their stocks. 
+    - When the insiders index goes over 1, it is generally a good idea to buy indices long-term.
+    - Also if VIX goes over 50, the SP500 is going down.
+    - These approaches work for SP500, it may be useful to find other metrics to find good moments to enter other indices.
+
+> When the insiders index is over 1, it may be a good idea to enter SP500. This has shown historically better returns than the VIX and IED strategies.
+> - If you make this updates yearly, you only increase the amount bought according to the number of months that the insider metric is over 1.
+
+### Asset allocation
+... i.e. building your own portfolio.
+- When building your portfolio you need to think of the following for your asset allocation:
+  - Risk
+  - Liquidity
+  - Rate of profits / Returns.
+- Types of risks.
+  - Specific risks and diversifiable: It can be prevented by diversifying into different types of investments and asset classes.
+  - Systemic risks and not diversifiable: This is correlated among different asset classes and can be prevented investing in uncorrelated asset classes and investments.
+
+- Different asset allocation for the different economic classes:
+  - Boom: Stocks, commodities, corporate bonds and emerging markets.
+  - Recession: Nominal bonds, inflation-pegged bonds, gold and other assets to protect against the inflation.
+  - Deceleration: Emerging markets debt, commodities, bonds pegged to inflation.
+  - Recovery: Stocks, nominal bonds.
+
+![historical returns per asset class](https://static.fmgsuite.com/media/images/de39e493-ab8c-45b6-861b-7ef4f5a8dc87.png)
+
+- Metrics to consider when evaluating your portfolio:
+  - Nominal CAGR: Compound annual growth rate
+  - Real CAGR: Including inflation
+  - Stdev: Standard deviation. It reflects the volatility of your porfolio.
+  - Max drowdown: The biggest crash impacted in the porforlio.
+  - Sharpe Ratio: Relationship between the net return free of risk (i.e. 10-year yield bond in the country that you are investing), and historical volatility (std dev)
+    - `(Total return - free risk rate) / volatility = (8% - 3%)/0.7` 
+  - Sortino Ratio: Adjusted Sharpe ratio that only considers the negative std devs.
+
+### Different types of portfolios
+> One can use the portfolio visualiser to evaluate the performance of different portfolios.
+
+- Bogle Portfolios
+  - Type 1: 60% stocks, 40% bonds
+  - Type 2: 50% US stocks, 30% bonds 20% ex-US stocks
+  - Type 3: 50$ US stocks, 30%  ex-US stocks, 10% inflation pegged bonds
+  - On these portfolios, bonds are used to minimise the max drowdowns.
+
+> Historically up till 2020, Bogle type 1 portfolio has the highest return, but it didn't have much difference with the other types.
+
+- Permanent portfolio (Harry Browne)
+  - Worth reading through: http://www.carterapermanente.es/evolucion-cartera-permanente/ _(in Spanish)_
+  - 25% long-term bonds, 25% stocks, 25% cash, 25% gold
+  - The max drowdown is way smaller than the Bogle portfolios
+
+- All Weather Portfolio (Ray Dalio)
+  - 30% stocks, 15% mid-term government bonds, 40% long-term bonds, 7.5% gold, 7.5% commodities
+  - Lower drowdowns than other strategies.
+
+> In order to analyse the return of different semi-passive strategies use:
+> * http://www.lazyportfolioetf.com/
+> * https://www.portfoliovisualizer.com/: This tool allows you to create the portfolio, backtest the portfolio, and compare against existing benchmarks.
+
+> Recommended reading: 
+> * Fail Safe Investing - Harry Browne
+> * The small book to invest with common sense - John Bogle
+> * La guerra financiera asimétrica - David Nuñez y Santiago Casal
+> * Invest with the FED - Robert Johnson, Gerald Jensen y Luis García Feijoo
+
+## Business Accounting
+- The goal of a business is to generate free cash flow over investors expectations and maximise the long-term value of the company.
