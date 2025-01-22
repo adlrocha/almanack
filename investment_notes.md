@@ -14,7 +14,7 @@
   - Companies will make money in the future to investors. The goal of investments is to understand if the price of the company in the market is below its real value (Analogy with the 50 euros bill: it could be priced 70 or 30. Speculators would buy as long as they think it will go up, but investors would analyse the real price --50-- and only buy if the price is below that).\
 - __Investors prevent losses__ (this is key and something that we don't usually do).
 - Investors focus on the difference between value and price
-- The result of an investment are dividends, re-buy of stocks, interest payments, reinvestments.
+- The result of an investment are dividends, buy back of stocks, interest payments, reinvestments.
 - Metals and Crypto are speculation not investments because you can't analyse their intrinsic value.
 
 ### Simple and Compound interest
@@ -168,7 +168,11 @@ Savings     ------> Net worth.
 - Credit expansions only incentivise first-order products because there is short-term thinking. There is no investment in productivity boots (through machinery, investing on improvements, etc.).
   
 
-> Book recommendation: "Dinero, credito bancario y ciclos económicos" - Huerta de Soto
+> Book recommendations: 
+> - "Dinero, credito bancario y ciclos económicos" - Huerta de Soto
+> - "Big Debt Crisis" - Ray Dalio
+> - "How countries go broke - Ray Dalio"
+>  - First chapter: https://www.linkedin.com/pulse/how-countries-go-broke-introduction-chapter-one-ray-dalio-3wjae/
 
 - Financing your own personal assets through credit expansion makes you vulnerable to the macroeconomic landscape and the economic cycle.
   - Buying assets through savings can shield you against this effect (to some extent)
@@ -517,3 +521,308 @@ Strategies to invest in indices.
 
 ## Business Accounting
 - The goal of a business is to generate free cash flow over investors expectations and maximise the long-term value of the company.
+  - Business balances allow us evaluate the intrinsic value of a company
+  - Through accounting all the operations of the companies are tracked and allows to give a snapshot of the status of assets and liabilities.
+
+### Financial statements
+- The balance sheet
+  - What is the state of assets and liabilities of the company
+  - This allows us to get information about the health and net worth of the company.
+- Profit and loss account
+  - It allows us to understand the behavior of the business through time
+- Cash flow statement
+  - This is one of the most important things to look at in good companies. Generating cash is key for the health of a company.
+- Statement of changes in equity
+- Audit and balance reports 
+  - Useful to get additional context of the snapshot seen in the financial statement.
+- Annual report
+- Equity analysis
+- Economic analysis
+- Financial analysis
+
+### Dynamic and static variables of balance states
+- Static: Net worth and balance sheet analysis.
+  - Bathtub analogy: Depending on the flow of inputs and outputs (cash flows and profit and losses), the amount of water changes (balance status).
+- Dynamic: Cash flow statements, profit and loss account, other reports
+
+> References to get public balances and reports from public companies:
+> - CNMV: https://www.cnmv.es/Portal/consultas/busqueda.aspx?id=25
+> - SEC: https://www.sec.gov/edgar/searchedgar/companysearch.html
+>
+> Information about balances:
+> -https://www.gurufocus.com
+> - https://www.morningstar.es
+>
+> Also check the investors relations page in the public companies website
+
+### Balance Sheet
+- Assets: In what have the company invested?
+  - Current assets: In less than 1 year could be liquid.
+    - Cash and long-term investments
+    - Stock: there are of three types: raw materials, partially finished, finished.
+  - Non-current assets: Not expect to be liquid before 1 year
+    - Tangible fixed assets like machinery, building, cars, etc.
+      - This allows us to understand if the company is capital intensive.
+    - Investments in stocks and long-term bonds.
+      - This value can be volatile and should be considered with care.
+    - Non-tangible assets (i.e. goodwill)
+      - Coca Cola's trademark has a lot of value but is not considered in the balance sheet. This is used to consider the cost over the assets and accounting when buying a company. If the price paid is higher than the actual net worth it should still be reflected in the balance.
+      - Goodwill and some assets can be amortised to reduce profits
+      - Company trademarks are not reflected in the balance if they are created from scratch, only when they are bought.
+
+- Liabilities: How has the company paid for this investments?
+  - Current liabilities: < 1 year debt
+    - Accounts receivable: Invoices that haven't been paid, but will soon be paid.
+      - This is the way that company finance themselves by delaying payments to providerse
+    - Short-term debt: Current assets need to be used to pay this short-term debt.
+      - This debt is risky as it has to be paid immediately.
+  - Non-current liabilities: > 1 year debt
+    - Long-term debts (i.e. bonds)
+    - Rating agencies give scores to this debt and helps understand the risk and solvency of the company
+
+- Net worth: Ownership of founders and partners.
+  - Retained returns / profits. This reflects the profits that have not been paid through dividends or by buying back stocks
+    - This should be high to find quality companies.
+
+- Obviously, the amounts of assets should match the sum of liabilities and net worth
+- Company owners are the last ones to be paid, this is why is not great to in vest in companies with a large debt (as you will probably not get paid anything from the assets after a bankruptcy)
+
+![Understand and analyze the balance sheet - Assess your customers](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.creditmanagement-tools.com%2Fimgen%2Fbalance_sheet1.png&f=1&nofb=1&ipt=db8a7457d6955c863b6bac11db6de54ef9165d47930798d3f1aa847f81134786&ipo=images)
+
+### Profit and loss statement
+![](https://desalas.org/wp-content/uploads/2019/10/profit-loss-statement-example-lovely-how-to-read-a-profit-and-loss-statement-smi-financial-of-profit-loss-statement-example.png)
+- `Profits = Income - Expenses`
+- Income or goods sold: The different revenue streams. It may be divided by products, services, or geography.
+- Cost of goods sold (COGS): Material buys, existent material, and sold material. 
+  - Human resources that were involved in developing the product.
+  - Cost required to give the service or sell a product.
+  - Marketing or cross-functional actions
+- Gross income: Income - COGS
+- Additional expenses after the gross income to get the net income before getting into EBIT - Earnings Before Interest and Taxes (operational income)
+  - R&D and marketing generally outside the gross cost.
+  - It may be good to get the rate of this cross-functional operations v.s. the competition. Is a good way of understanding how efficient they are and how they compare to the competition.
+  - Other operational costs: closing a industry, exceptional actions. If this is recurring we need to be careful and understand what is happening.
+  - `Amortisation = (value to amortise)/number of years of useful life`
+- EBIT hasn't been yet impacted by debt and interests. Is a good way of understanding the health of the business as it is not impacted by one-time payments and other non-operational costs.
+- From EBIT to EBITDA
+  - Financial income and expenses
+    - Potential interests to their cash and interest of their debt
+    - EBIT / debt interests > 5 (we can cover 5 years of debt through EBIT)
+  - Exceptional income or expenses (e.g. when some factory floods, earthquakes, stock destroyed, etc.)
+  - Taxes
+- Net income may not be showing the whole reality, it is easy for accountings to use financial engineering to make it more appealing.
+- Earnings per share.
+  - The number of share should consider the stock options, the circulating supply of stocks. Use diluted stocks to compute the earnings per share.
+  - Earnings per share doesn't say much without understanding how the cash flow behaves.
+- EBITDA = EBIT + Depresiation + Provisions
+  - This has been normalised but Munger and Waffet don't like it much.
+  - It doesn't consider amortised and other balance sheet items that do not impact the cash flow (although interests do)
+  - EBITDA is useful to understand the survival of a company and when they require a lot of investments.
+  - For the same EBITDA, we should consider the one that is least intensive in capital, i.e. with lower interests, amortisation and taxes.
+
+### Cash flow statement
+- It shows the amount of cash generated by the business throughout certain period.
+- This is one of the most important financial statements.
+- There are different types of cash flows:
+  - Operational flows
+    - Net profit - net cash received through operations.
+    - Amortisation should be included to the net profit because is not an outbound flow.
+    - This also applies to the deferred taxes.
+    - We subtract pension fund contributions.
+    - Add and subtract working capital (pending payments, other assets, changes in the balance of assets and liabilities, etc.)
+    - One-time and unique expenses or incomes.
+
+  - Investment activities cash flows.
+    - Investment (CAPEX) for non-current assets like machinery to keep operating.
+    - `Free Cash Flow = operational cash flow - capital investment`: i.e. cash that is left after all the investment required for the business.
+    - Returns from investments or assets sold
+
+  - Financing activities
+    - Cancel debt or issue new debt.
+    - Issuance or stock buy-backs.
+      - Buy backs make sense when the intrinsic value is below the spot price.
+    - Paid dividends
+
+- Be careful with financial engineering, but cash flows generally never lies.
+- Goodwill reflects the difference when acquisitions are performed.
+- Careful with debt, look at current and non current investment and liabilities like you would do with your own financials
+
+> Recommended readings:
+> * Warren Buffett and the interpretations of financial statements - Mary Buffett y David Clark
+> * Accounts demystified - Anthony Rice
+> * Finanzas para directivos - Eduardo Martinez
+
+> !! Resources for financial data: https://app.tikr.com/register?ref=f9ae1m 
+![](https://www.double-entry-bookkeeping.com/wp-content/uploads/types-of-cash-flow.png)
+
+## Quantitative analysis of companies.
+### Liquidity ratios
+- To what extent can a company pay for all of its obligations.
+- Some companies have low liquidity ratios, but if they are companies that have easy access to new short-term debt, then it may not be an issue.
+- `liquidity ratio = current assets / current liabilities`
+- `current ratio = total current assets / total current liabilities`
+> If the ratio is `< 1` then the company doesn't have a way to to take care of their short-term debt with their current assets, while `> 1` it means that they can pay for their short-term debt. 
+- A cash ratio that is very high may also not be good because that would mean that there's __"Idle cash"__ that could be used to pay part of the long-term debt debt, return as dividends to investors (or through buy-backs), or be invested somewhere. 
+- `quick ratio = (total current assets - total inventories) / total current liabilities` 
+> - `>0.8` has enough quick ratio
+> - `>1` is what is the recommended.
+> - `>1.5` or around 1.5 is ideal
+
+### Leverage ratios
+- Debt is good as long as it is invested in promising projects.
+- `Debt Coefficient = Debt / equity`
+- `Debt Coefficient 2 = Debt / total assets`
+- `Leverage ratio = total assets / (equity + non financial liabilities)`
+- Low debt also allows for easier access to more debt eventually.
+  - When there is a crisis there is when high debt leads to issues.
+  - One of the best debt ratios is the one that helps understand the amount of debt compared to equity or the total assets
+- `Interest coverage ratio = EBIT (operating income) / Interest expense`
+> Interest coverage should be `>5` ideally
+
+- `Net debt = total financial debt - total cash flows`
+  - Net debt if the above is positive, and net cash if it has more cash than debt.
+
+- Altman Z-score
+![Altman Z Score (Meaning, Formula) | How it Predicts Bankruptcy?](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wallstreetmojo.com%2Fwp-content%2Fuploads%2F2018%2F12%2FAltman-Z-Score-formula-1.jpg&f=1&nofb=1&ipt=a6a4814d9bbbc84f166b8857daab30ac42efb39471cddc2ad4749077b032b6e1&ipo=images)
+![Altman Z Score - Z TABLE](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ztable.net%2Fwp-content%2Fuploads%2F2020%2F09%2FAltman-z-score-model.png&f=1&nofb=1&ipt=ff5c8a6d6f387c0458e22e4a0ef50ccd711dde227ca803f3d2e691dacf595af3&ipo=images)
+
+### Margin ratios
+- "Look for companies with high profit margins"  - Warren Buffet
+- `Gross marging = gross profit / sales`
+> - `>40%` of gross margin (this glimpses that the company may have pricing power)
+> - `20-30%` of gross margin is a competitive landscape
+- `EBIT margin = Operational profit / sales`
+  - EBIT is one of the most important metrics that can be used to understand the business realities.
+- `Net margin = Net profit / sales`
+> - `>20%`: is great (it generates 0.2 on the dollar of new cash flow)
+> - `<20%`: the company may be in a really competitive industry
+- `Free cash flow (FCF) = Operating cash flow - CAPEX`
+- `Free cash flow margin = FTF / sales`
+> - `>50% FCF` is great
+> - `>10% FCF` may be good enough
+> - `<10% FCF` we need to look in detail
+
+### Growth
+- Growth needs to be computed through the CAGR (Computed Annual Growth Rate) and not linearly.
+- `CAGR = (Sales in last year / Sale in first year)^(1/n period of time)-1`
+> - `>20%` CAGR is amazing
+> - `>10% and <20%` CAGR is pretty good
+> - `<5%` is a mature company that may be stabilising sales
+- EBIT may be increasing over sales which would imply that the costs are being reduced what sales are going up.
+  - EBIT is usually from 5%-13%.
+- Stock buybacks may artificially modify the growth of the return per equity as sales are growing but buybacks increases the effect.
+> The growth of FCF is one of the key metrics as it let you know the amount of new cash that the business is able to generate year after year.
+- We may need to compute all the metrics per equity unit to understand the stock liquidity and how it may be impacting the equity numbers.
+
+- Organic growth: Generated by the intrinsic operation of the core business.
+- Inorganic growth: Produced through acquisitions and benefit from synergies and buying companies that are cheap and they can leverage for their core business (it increases the numbers not because the business is being better, but because they consolidate the new business. After a few years they are consolidated and it becomes organic growth)
+
+### Efficiency ratios
+- Activity ratios: How fast the investment in assets generate sales.
+  - `Day sales outstanding = accounts receivable / (revenue / 365)`
+    - Time required to get the money after a sale.
+    - It may be a good metric to compare against the competition.
+  - `Days payable = Accounts payable / (COGS / 365)`
+    - It shows the negotiation power of the business over their providers. The bigger this value, the better as it gives flexibility to the business.
+    - This one should be larger than the day sales outstanding as it offers a free way to finance themselves.
+  - `Days inventory = Total inventories / (COGS/365)`
+    - Days until the stock is sold. It is a good way to understand the demand and may be good to compare with the cometition.
+  - `Cash conversion cycle = DAy sales outstanding + days inventory - days payable`
+    - This value should be minimised as much as possible. If negative it means that the business is getting free financing from their providers.
+    - The faster this cycle, the better the stock turnover, and the more sales they are generating.
+
+### Return ratios
+- The goal of a business is to maximise the return for every money invested.
+  - The mental framing should be the same as when you invest in a mutual fund, where you expect them to generate a return over the money invested.
+- ROA: Return over assets
+  - `Net margin * rotating assets = net profit / total assets = ROA`
+  - `ROA = Net income / Average total assets`
+    - This shows how efficient a company is generating return from every USD invested in assets.
+    - Either you rotate your assets or you increase your margin to improve your return.
+- ROE: Return over equity
+  - `ROE = ROA * financial leverage = Net profit / equity`
+  - This metrics determines the efficiency of the equity in the company 
+  - We should consider the amount of leverage of the company
+- Dupont formula for ROE:
+  `ROE = Profit margin * total asset turnover * leverage factor`
+  - If the ROE shows that is high due to the amount of leverage we should check the term of that leverage (there is clean, i.e. no interests, v.s. dirty, i.e. high-interest long-term debt).
+  - It is important to break down the ROE to understand where it comes from.
+  - Bear in mind that ROE includes all liabilities (good and bad)
+- > `ROE > 15%` is healthy and shows a competitive advantage
+- FCF: Free Cash Flow = Operative cash flow / CAPEX
+  - One should consider how the cash flow is re-invested in the business.
+  - Amazon, e.g. re-invests a good amount of their cash to minimise their profit and pay less taxes. This company generates a lot of cash flow but it is generally reinvested.
+
+> High ROE and FCF are "money-making machines".
+> - ROE > 10%  to be interesting
+> - FCF > 5%
+
+- ROIC: Return over invested capital
+  - It includes all the leverage inside this metric.
+  - `ROIC = Net operating profit after taxes (NOPAT) / Capital invested`
+  - `NOPAT = Operational profit * (1 - tax rate)`
+  - `Invested capital = Total assets - account payables and accrued expenses - excess cash`
+  - `Excess cash = cash and equivalent - (curent liabilities - current assets + cash and equivalent)`: If this is negative we set it to zero for the ROIC computation
+    - This is a good way to understand the cash requirements of the business.
+  - Depending on who's computing this metric there are different ways of adjusting it (and this happens depending on the analyst).
+
+> - ROIC > 10% is generally a good metric (ideally >15%)
+> - WACC is the opportunity cost of the money (i.e. >9% to be comfortable)
+> - ROIC should be larger than the WACC (ROIC > WACC)
+> - If ROIC is low is better for the company to return to their owners through dividends
+
+- ROCE: Return on capital employed.
+  - It only considers the operational assets (subtracting the leverage and interests)
+  - `ROCE = EBIT / (Net working capital + PP&E)`
+  - `Net working capital = (Accounts receivable + total inventories + other current assets) - (accounts payable and accrued expense + defer rev + other current liabilities` 
+  - `PP, & E = Property, plant and equipment`
+  
+> - ROCE > 20-25% is ideal
+
+### Valuation methods
+- Net worth valuation
+  - `Book value = total assets - total liabilities` (i.e. net worth / equity)
+    - If the market cap is below the book value there may be an opportunity (this is the price to book)
+  - `Tangible book = total asset - intangible asset - total liability`
+  - `NCAV (Net current asset values`
+  - `Net net working capital`
+  - These valuations show a snapshot of the business and does not consider the future of the company.
+  - It is hard to find nowadays companies that fulfil Benjamin Grahams metrics.
+  - Cigar Butts (companies that are not followed by analysts and that are in a really bad situation, but they could still give some profit).
+  - Careful with management and value traps. Sometimes the numbers add up but they are a trap, they seem cheap but are almost dead.
+
+### Discounted cash flows.
+- The value of a stock is the present value of its cash flows.
+- Through cash flows is a more dynamic way of evaluating its current value. Present value is generated through cash flow (otherwise you are speculating)
+- WACC (Weighted Average Cost of Capital)
+  - Ideally the WACC should be close to the 9% to make sense (is the minimum CAGR that you ask for your investment).
+  - WACC is the minimum CAGR required by investors and the corporate owners.
+  - To compute the WACC you need to understand the beta of the industry where the company operates. 
+![Cost of Capital - Learn How Cost of Capital Affect Capital Structure](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.corporatefinanceinstitute.com%2Fassets%2Fwacc-1024x553.png&f=1&nofb=1&ipt=36baff203128c1a6709d4b36f4e85088e283d4c4806b527558731d42ba7b6923&ipo=images)
+- `Opportunity cost = What one sacrifices / What one gains`
+- Discounted cash flows make sense if we expect the company's cash flow to be somewhat stable or predictable.
+  - For stable companies we can consider a WACC of 9%
+  - For cyclic companies 12%
+  - And risky companies due to the industry or the countries where they operate a 15%
+    - This discount rate is used to determined how the future cash flows should be brought to the present.
+  - We use these to determine the discounted FCF
+  - WACC == Discount rate
+  - `Terminal value = Current flow (1 + g) / (discount rate - g)`
+    - `g` is the expected long-term growth of the cash flow
+
+![Discounted Cash Flow Method](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.clydebankmedia.com%2Fwp-content%2Fuploads%2F2019%2F12%2FDCFAnalysis_graphic.jpg&f=1&nofb=1&ipt=8b8d388054eb5b43598ff6dfdbe46617645988b97baf27dade1775747ac181f5&ipo=images)
+- Qualitatively, through the intrinsic value and the stock price we decide when to buy and when to sell (consider a security margin)
+  - On top of this analysis we should have a qualitative analysis to determine how good is the business.
+> Recommended security margins
+> - 20% for stable and growing markets with competitive advantages. (Google)
+> - 30-40% for cyclic comapnies with middle risks. (Acerinox)
+> - >60% for high risk companies without any competitive advantages (Sabadell)
+
+### Valuation by multiples
+- It enables the evaluation of companies from their static and dynamic behavior. Multiples are a great way to compare companies among them.
+- Price Earning Ratios: `PER (PE Ratio) = Price / Earnings`
+  - How much we are paying for a company over earnings
+  - PER assumes the net profit and it as shown before it can be manipulated to minimise their earnings (and minimise their taxes), but it generates enormous cash flows.
+- Enterprise Value metrics.
+  - Value of the company for owners, debt holders, etc.
+  - EV/Revenues, EV/EBITDA

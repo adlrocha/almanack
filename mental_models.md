@@ -8,6 +8,8 @@
 
 1. Life is hard, and it is not fair. The sooner you accept this, the better off you'll be, but it is worth every second of it.
 
+1. Plan for the worst and hope for the best, so even if the worst happens you can still sleep at night.
+
 1. Everything should be made as simple as possible, but not simpler.
 
 1. Dedicating money on your knowledge and improving your skills has a compounding effect. Do not hesitate to spend money on making yourself more attractive to the market (and society overall). It may bail you out in times of crisis.

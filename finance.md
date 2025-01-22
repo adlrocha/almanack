@@ -18,3 +18,7 @@
 1. When investing in stocks as a financial instrument think of them broadly speaking as bonds, that generate future cash flows yearly. The company that you invest in should be capable of maintaining this bond-like behavior long-term.
 
 1. Debt is not bad (without it we wouldn't have the global prosperity that we are experiencing), but excess of debt is risky. Even an excess of capital can be risky because it leads to bad decisions. Having money without knowing what to do with it leads to bad decisions.
+
+1. "It pays to build up savings in the good times so there are savings to draw on in the bad times. There are costs to having too much savings as well as too little savings, and no one gets the balance exactly right." - Ray Dalio
+
+1. If debts are denominated in a country’s own currency, its central bank can and will “print” the money to alleviate the debt crisis. This allows them to manage it better than if they couldn't print the money, but of course it also reduces the value of the money. If the debt is not denominated in currencies that their central banks can print, then they will have debt defaults and deflationary depressions measured in the currency that they owe and can’t print.
