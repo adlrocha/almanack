@@ -814,9 +814,9 @@ Strategies to invest in indices.
 - Qualitatively, through the intrinsic value and the stock price we decide when to buy and when to sell (consider a security margin)
   - On top of this analysis we should have a qualitative analysis to determine how good is the business.
 > Recommended security margins
-> - 20% for stable and growing markets with competitive advantages. (Google)
-> - 30-40% for cyclic comapnies with middle risks. (Acerinox)
-> - >60% for high risk companies without any competitive advantages (Sabadell)
+> - `20%` for stable and growing markets with competitive advantages. (Google)
+> - `30-40%` for cyclic companies with middle risks. (Acerinox)
+> - `>60%` for high risk companies without any competitive advantages (Sabadell)
 
 ### Valuation by multiples
 - It enables the evaluation of companies from their static and dynamic behavior. Multiples are a great way to compare companies among them.
@@ -826,3 +826,119 @@ Strategies to invest in indices.
 - Enterprise Value metrics.
   - Value of the company for owners, debt holders, etc.
   - EV/Revenues, EV/EBITDA
+  `Enterprise Value = Market cap + long-term debt + short-term debt + interests - Cash or equivalents`
+    - Enterprise values are generally compared with historical metrics and then compared to other companies in the same industry
+![Enterprise Value - Definition and Formulas InvestingPR.com](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Finvestingpr.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fenterprise-value-formula.png&f=1&nofb=1&ipt=9163539ee0d3da2d53724551829bc3c957ed5e12142bd0cddbc70d97b9c12715&ipo=images)
+- Enterprise FCF
+  - `FCF yield = FCF / EV`: This metric determines the return compared to its real value.
+    - 3-4% of FCF yield is a good metric.
+    - This is one of the most valuable metrics to determine if they are good companies generating cash.
+- Buyback and dividend yield.
+  - Dividends / EV and Buybacks / EV to determine the rate of dividends and buybacks compared to its values.
+    - The average dividend yields are around the 2% in the SP500
+    - Some companies do not buy back stocks but give dividends, and the other way around, or a combination of both.
+    - Be careful with companies that give dividends and buy back stocks even when they are not generating cash to justify it.
+    - Some companies get debt in order to give dividends.
+    - All these metrics should be understood in the context of their balance sheets (high dividend yields and low PER may be a value trap as they may been trying to optimise for this metrics).
+
+### Graham's growth metric
+- It is a great way to understand the intrinsic value of growth companies
+```
+(8.5+(2* growth earnings per share ) * current earnings per share) = intrinsic value
+```
+- Do not use this metric for > 7 years (we can't expect a company due to business cycles to grow steadily more than 7 years)
+- Expected 7-12% CAGR for the 7 years evaluated.
+- It is easy to compute through the current metrics and expectations for the company. We can compare against current PER and stock price to understand if the stock is cheap.
+
+> Recommended readings
+> - The little book of valuation - Aswath Damodaran
+> - Invest like a guru - Charlie Tian Ph.D. 
+> - Benjamin Graham and the power of growth stocks - Frederick K. Martin
+> - Strategic Value Investing - Stephen Moran, Robert Johnson y Thoma Robinson
+> - Valuation - McKinsey & Company
+
+> - The first thing worth doing when getting the raw balances from a company is to get the CAGR for different metrics (total operating expense, EPS, Shares outstanding, EBITDA, etc.) for 5/12 years to understand how it has been growing.
+> - When computing the discounted FCF we should consider a growth of FCF a bit lower (and corrected to the expected growth in the next years) for the next few years.
+
+
+- Peter Lynch fair value = PEG Ratio * 5 year EBITDA Growth Rate * EPS without NRI
+
+## Qualitative Analysis
+
+### MOATs
+- We should try to find mini-monopolies protected through moats.
+1. Intangible assets
+  - Trademarks that are hard to replicate.
+  - A large number of small regulations that protect the businesses so they can't be immediately removed by a government change.
+  - Patents
+1. Switching costs
+  - Banks, e.g. are hard to switch.
+  - Companies that create software that is hard to switch from (Oracle, Adobe, etc.).
+1. Network effects
+  - The value of the product increases with the number of users.
+    - Direct network effects (social networks and advertisements, etc.)
+    - Indirect networks (operating systems and the network effects for the devices that run on them, e.g. Android/Windows)
+1. Cost advantages and efficient scale
+  - With a cost advantage you can compete by lower prices (this can be risky but is a valid approach) (Aramco).
+  - Logistics is a good example where the scale rises the barriers of entry.
+  - "Being a big fish in a small pawn is better than being a big fish in the bigger pawn"
+1. Diworsification and where to find MOATs
+  - Technological disruption can erode critically MOATs (Kodak)
+  - Diworsification happens when a company starts making acquisitions with its idle cash that burns cash and gives no value to the core business.
+    - Youtube and Instagram were good acquisitions, but sometimes they buy others with high multiples and that adds nothing
+- It may be good to compare the MOATs of similar companies (or direct competitors) in the same industry before investing there.
+- Morningstars identifies wide (>10 years) and narrow MOATs (<10 years).
+
+![Economic moats of stocks | Handmade paper crafts, Moat, Investing](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2e%2Fd0%2F9b%2F2ed09b84514834921f1e06e7583fe6f4.jpg&f=1&nofb=1&ipt=c59de84b9aa75baa35ad08692c8868d2ec130151a733bb77d18d0b7f508ead13&ipo=images)
+
+### Management Team
+- The managemet team should have "skin in the game". The either most be founders or majority owners.
+  - Also check the incentives behind the management team.
+- Things to check from the management team:
+  - Compensation (fixed or variable, what are the incentives, do they own the company or get stock options, etc.)
+  - What is the personality of the CEO (and management team): Interest aligned to that of the stock owners? Managers admit their mistakes? Are they realistic with their expectations (or do they over-promise)? Do they attract talent? Are they short-sighted or think in the long-term?
+  - Business management. Do they allocate capital efficiently? How are they using their cash flow and idle cash? Do they pay dividends, do stock buy-backs, and are they increasing the intrinsic value?
+    - Idle cash should also be used to reward stock owners.
+
+### Outsiders
+- Their common trait is a good capital allocation
+- Outsiders manage their cash flow personally and don't delegate.
+- What really counts is the increase of the value of the stock.
+- The company's value is determined by the cash flow and not by earnings
+- They try to keep low costs.
+- They are focused on the long-term.
+- They generally create buy-backs when they see that the intrinsic value is below the public price.
+- They are patient and they invest all-in when they identify an opportunity.
+- The best way to evaluate a CEO is to check how the stock behaved compared to their competitors and the industry at the same time.
+
+### Porter's five forces
+- Evaluate the competitive forces of a company
+
+![Diagram Of Porter's Five Forces Model](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpeachyessay.com%2Fwp-content%2Fuploads%2F2020%2F12%2FFive-Forces-Model-Porter.png&f=1&nofb=1&ipt=6c4d59c8621a5fd38e58063b472009a11b1bcba309a9d1feff4ff7fbd50b72a0&ipo=images)
+### Industry Maps
+- A map with the value chain, and the different participants on an industry.
+- This is a great way to find related companies in the industry that is an opportunity.
+  - We need to understand how interrelated companies.
+- It is also a good way to understand the metrics and forces that impact the companies in this industry.
+- Consumer-first companies is key (see Amazon).
+
+> Recommended readings
+> * El pequeño libro que genera riqueza - Pat Dorsey ( https://amzn.to/2D4SOQS )
+> * The outsiders - William N. Thordike ( https://amzn.to/3lkT4MG )
+> * Lecciones de liderazgo creativo - Robert Iger ( https://amzn.to/31s6uyG )
+> * Un paso por delante de Wall Street - Peter Lynch ( https://amzn.to/2YCaH14 )
+
+
+> Recommended links
+> * https://www.morningstar.com/
+> * https://www.gurufocus.com/
+> * http://pages.stern.nyu.edu/~adamodar/
+> * https://es.statista.com/
+
+### Best investors in history
+- Warren Buffet
+- Ray Dalio
+- Peter Lynch
+  - Peter Lynch's fair value
+- Joel Greenblatt
+- Carl Icahn

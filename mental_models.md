@@ -1,5 +1,6 @@
 # Mental Models
 > A collection of mental models and ways to think about the world that I find useful in my daily life.
+
 1. Physics teaches you how reality works, rational investing teaches you how the society works.
 
 1. Money doesn't buy happiness, but it buys freedom. And freedom can buy happiness. Owning your time can be the most valuable asset you can have.
@@ -11,6 +12,8 @@
 1. Plan for the worst and hope for the best, so even if the worst happens you can still sleep at night.
 
 1. Everything should be made as simple as possible, but not simpler.
+
+1. You are one book away from becoming an expert and improving your skills.
 
 1. Dedicating money on your knowledge and improving your skills has a compounding effect. Do not hesitate to spend money on making yourself more attractive to the market (and society overall). It may bail you out in times of crisis.
 
@@ -33,3 +36,7 @@
 1. When spending money in something, do not think on their absolute price, but the percentage of your monthly (or yearly) salary of what you are buying, its utility in time, and the time required to amortise it. This will help you make better buying decisions, to not to hesitate to spend money on important things, and not to waste time on trying to find discounts or bargains when it only represents a small percentage of your total income.
 
 1. It's not bringing in the new ideas what is hard. It's getting rid of the old ones.
+
+1. You and your research. You should be working in the niche from your field where you can have the higher impact.
+
+1. Always be the "devil advocate" and the one that tries to destroy your own ideas to make them more robust.
