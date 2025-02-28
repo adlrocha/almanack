@@ -942,3 +942,48 @@ Strategies to invest in indices.
   - Peter Lynch's fair value
 - Joel Greenblatt
 - Carl Icahn
+
+> Recommended links to inspect the porfolio from big investors and managers.
+> * https://www.dataroma.com/m/home.php  (This one is probably the best)
+> * https://whalewisdom.com/
+> * https://www.gurufocus.com/guru/george+soros/current-portfolio/portfolio
+> * https://app.tikr.com
+
+> Recommended readings:
+> * El póquer del mentiroso - Michael Lewis
+> * Flash Boys - Michael Lewis
+> * Por qué dejé Goldman Sachs - Greg Smith
+> * Un paso por delante de Wall Street - Peter Lynch
+> * Accounting for Growth - Terry Smith
+> * Deep Value - Tobias Carlisle
+> * The Joys of Compounding - Gautam Baid
+> * La educación de un inversor en valor - Guy Spier
+> * El inversor Dhandho - Mohnish Pabrai
+> * Grandes maestros de la inversión - John Train
+> * Warren y Charlie - Javier Caballero
+> * Only the best will do - Peter Seilern
+> * Principles - Ray Dalio
+
+### Portfolio management and tooling
+- https://www.msn.com/es-es/dinero/mi-portafolio
+- https://www.morningstar.es/es/PortfolioManager/createportfolio.aspx
+- http://www.visualeconomy.com/MarketMonitor/MarketMonitor.aspx?Page=ECO_Home
+- https://www.gurufocus.com/new_index/
+- https://www.ocu.org/inversiones/mi-cartera
+
+### Tools to search for information
+- https://www.koyfin.com/home
+  - Portfolio dashboard with a watchlist with news, analysis, filings, etc. 
+- https://www.gurufocus.com/new_index/
+  - A lot of information and screening tool.
+- https://app.tikr.com/register?ref=f9ae1m 
+  - The Bloomberg terminal for the poor.
+- https://www.morningstar.com/
+- https://seekingalpha.com/
+  - Really good analyses.
+
+### Backtesting tools
+- https://www.portfoliovisualizer.com/
+- https://www.etfreplay.com/
+- https://backtest.curvo.eu
+- http://www.gurufocus.com?r=f0c00696afa17a76c1cc5a53918da746

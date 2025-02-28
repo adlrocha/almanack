@@ -40,3 +40,7 @@
 1. You and your research. You should be working in the niche from your field where you can have the higher impact.
 
 1. Always be the "devil advocate" and the one that tries to destroy your own ideas to make them more robust.
+
+1. The skills that you stop using are lost. Try to create habits that help you keep and improve the skills that you want to maintain.
+
+1. Try to always increase the number of people that you are giving value to, and identify the blue oceans (all industries still have blue oceans and problems to solve, but we focus on the blood).
