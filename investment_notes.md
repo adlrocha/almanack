@@ -987,3 +987,149 @@ Strategies to invest in indices.
 - https://www.etfreplay.com/
 - https://backtest.curvo.eu
 - http://www.gurufocus.com?r=f0c00696afa17a76c1cc5a53918da746
+
+## Investment thesis structure
+- Research note with a executive summary with the recommendation for thesis.
+- Introduction to the company, history of the company, business models.
+- Analysis of the industries where the company operates, and its relationship with the economic cycle. 
+- How the company works, their business and KPIs.
+- MOAT of the company and future risks.
+- Analysis of its executives.
+- Competitive analysis.
+- Balance and financial status of the company (value the company quantitatively)
+- Sources
+
+## Investment thesis checklist
+
+1. Is the return on investment offered by this investment realistic or is it outside the middle market range?
+
+1. Will I be able to withstand the position for 10 years? Will I be able to turn off the monitors and the broker account and maintain the position in my portfolio for more than 5 years?
+
+1. Is this investment a possibility that will beat inflation? Is the growth of its profit greater than the growth of prices?
+
+1. Are you really investing in the company with a long-term vision and compound interest, or is it just pure speculation?
+
+1. Does the possible investment exceed the opportunity cost of investing in fixed-income instruments?
+
+1. Is this investment, on average, better than the profitability of the major market indices over the long term?
+
+1. Am I entering this investment out of fear or am I copying another known investor?
+
+1. Is the company within my circle of competition?
+
+1. Am I buying into a silver lining situation or is there no stressful situation?
+
+1. Has the company's liquidity position been reviewed?
+
+1. Is the company having a current ratio (liquid assets/short-term liabilities) > 1?
+
+1. Is the company having a Quick Ratio ((total assets-current liabilities))/ (total assets-inventories)/ (total liabilities) > 1?
+
+1. Has the company's debt position been reviewed?
+1. Does the company have a high financial leverage (debt/total assets) < 20%?
+
+1. Is the interest coverage by the EBIT (EBIT/total interest payments) greater than 5 times?
+
+1. Is the Altman Z-Score greater than 2.99 (indicating a stable situation)?
+
+1. Does the company have a Gross Margin (gross profit/net sales) > 40%?
+
+1. Does the company have an Operating Margin (EBIT/net sales) > 25%?
+
+1. Does the company have a Net Margin (net income/net sales) > 20%?
+
+1. Does the company have a Free Cash Flow Margin (FCF/net sales) > 5%?
+
+1. Is the compound annual growth rate of its sales over the last 5 years greater than 10%? Is it if lower? Is it over the last 10 years? Are sales increasing after a deep crisis?
+
+1. Is the BPA growth greater than the growth of its sales? Is its FCF growing by 5 years at a faster rate? Has its FCF been positive over the last 5 years?
+
+1. Is the number of outstanding shares decreasing over the last 5 years? Are shares being repurchased?
+
+1. Is the growth happening organically through the business or is it through acquisitions of new companies?
+
+1. Is the dividend paid annually or is it being repurchased instead?
+
+1. Is the average days of receivable decreasing?
+
+1. Is the number of days to pay suppliers increasing?
+
+1. Is the average days of inventory decreasing?
+
+1. Is the cash conversion cycle positive or negative? If positive, is it decreasing the average number of days?
+
+1. What is the Return on Assets (ROA) = (net income/net sales) x (sales/total assets) = net margin x asset turnover = net income / total assets? Is it greater than 8%?
+
+1. What is the Return on Equity (ROE) = ROA x leverage (debt/total assets)? Is it greater than 10%?
+
+1. Has the ROE been analyzed using the Dupont formula? Where is the true return from the net margin, from the asset turnover or from the leverage effect?
+
+1. Is the operating cash flow growth of the business greater than its capital expenditures? Is the FCF maintained positive and sustained?
+
+1. What is the Return on Capital Invested (ROIC) = (net income-capital invested)/ (EBIT x (1-tax rate))/ (total assets-minus interest-bearing liabilities-excess cash) = (8.2%?
+
+1. What is the 3-year ROS (Return on Sales) according to Greenblatt = EBIT/(Capital employed net + Property, plant and equipment)? Is it greater than 25%?
+
+1. Is the company an operating asset value business like Graham?
+
+1. Does the company have a higher value than its market price?
+
+1. Is the company having more cash than its market value?
+
+1. What discount factor should be applied? Does the company have a correct WACC according to the valuation or is the market positioning a lower WACC than recommended according to its risk?
+
+1. What will be the residual growth after 10 years in the valuation?
+
+1. What percentages of probability possess the unfavorable, normal and favorable scenarios? Does the company have a security margin?
+
+1. According to the Graham growth analysis... What PER should the company have based on its expected BPA and FCF?
+
+1. Based on the expected BPA and FCF, does the company have a sufficient safety margin to consider it?
+
+1. What normalized multiples does the company have?
+
+1. What expected growth rate for its sales over the next 10 years is considered?
+
+1. Does the company's debt net increase faster than its sales?
+
+1. What normalized PER is considered for the next 10 years?
+
+1. What EV/Sales, EV/EBITDA, EV/EBIT, EV/FCF does the company have?
+
+1. Does the company have a durable competitive moat or void of competitive advantage?
+
+1. Does the company have any competitive advantage that cannot be considered a sustainable competitive moat and that is affecting our analysis?
+
+1. What is the competitive advantage that if it is important over the long term?
+
+1. Does the company have difficult-to-replicate intangible assets?
+
+1. Does the company have a high switching cost for its products?
+
+1. Does the company have a self-reinforcing feedback effect?
+
+1. Does the company have cost advantages that can be harnessed?
+
+1. Is the CEO having a skin in the game with a high percentage of company-owned shares?
+
+1. Is the CEO a good allocator of capital?
+
+1. Is the CEO an outsider or an insider?
+
+1. Is the company a loner or a wolf in its business management?
+
+1. What is the competitive rivalry in the market? Is there a strong threat or is the company a monopoly?
+
+1. Does the company have negotiation power with its customers? Does it have pricing power without clients leaving?
+
+1. Can the company negotiate with suppliers and defer payment?
+
+1. Are there substitutes for the star product of the company?
+
+1. Are there barriers to entry in the industry, besides the company's own?
+
+1. Is the company customer-centric, providing continuous value to customers?
+
+1. Is the company's industry one of high returns or is it in decline?
+
+1. Does the company heavily invest in R&D to maintain its competitive advantage or is it done almost without investment?

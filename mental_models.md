@@ -43,4 +43,8 @@
 
 1. The skills that you stop using are lost. Try to create habits that help you keep and improve the skills that you want to maintain.
 
-1. Try to always increase the number of people that you are giving value to, and identify the blue oceans (all industries still have blue oceans and problems to solve, but we focus on the blood).
+1. Try to always increase the number of people that you are giving value to every year, and identify the blue oceans (all industries still have blue oceans and problems to solve, but we focus on the blood).
+
+1. Identify the problem and work to solve it, but don't fall in love with the solution.
+
+1. Most ideas are bad and a huge amount of "work" is useless. You can excel just by pointing it out. People will gladly commit to weeks of extra work instead of calling bullshit and risk being seen as an asshole. Develop the skill of speaking up with kindness.
