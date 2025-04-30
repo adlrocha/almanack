@@ -22,3 +22,11 @@
 1. "It pays to build up savings in the good times so there are savings to draw on in the bad times. There are costs to having too much savings as well as too little savings, and no one gets the balance exactly right." - Ray Dalio
 
 1. If debts are denominated in a country’s own currency, its central bank can and will “print” the money to alleviate the debt crisis. This allows them to manage it better than if they couldn't print the money, but of course it also reduces the value of the money. If the debt is not denominated in currencies that their central banks can print, then they will have debt defaults and deflationary depressions measured in the currency that they owe and can’t print.
+
+1. More active investors are beating passive investment because the latter is becoming less efficient. It's still able to give you an average market return, but it may be a good idea to complement some active investment to traditional passive strategies (trying to avoid big losses that may drag you).
+
+1. Using PUTS can be a great tool to buy a stock at a desired price when it is currently a bit more expensive that you would be willing to pay for it. 
+  - There's a stock @10.5 that you want to buy @10.
+  - You make a PUT for @10.
+  - If the PUT executes in 3-months you keep the stock.
+  - In the meantime you keep the money to buy the PUT in a monetary fund to get some return from it.

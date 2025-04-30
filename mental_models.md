@@ -48,3 +48,5 @@
 1. Identify the problem and work to solve it, but don't fall in love with the solution.
 
 1. Most ideas are bad and a huge amount of "work" is useless. You can excel just by pointing it out. People will gladly commit to weeks of extra work instead of calling bullshit and risk being seen as an asshole. Develop the skill of speaking up with kindness.
+
+1. A happy life is determined by is purposed. Assign some purpose to everything that you do, and love is the ultimate purpose for everything: love for your work, love for your family, or the love of doing things right.
