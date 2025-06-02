@@ -30,3 +30,12 @@
   - You make a PUT for @10.
   - If the PUT executes in 3-months you keep the stock.
   - In the meantime you keep the money to buy the PUT in a monetary fund to get some return from it.
+
+1. Always set up different investment in boxes with a clear focus and a good understanding of their risks and their average return. It all boils down to having an investment goal and a return focus according to your risk profile. This will determine the allocation in stocks, private equity, bonds and cash.
+
+1. There are different type of instruments within private equity and not all are equal:
+  - VCs invest in an idea and a team. They are early company and require several small investment to achieve an average return of 15-18%. It is a double-digit return with high-risk.
+  - Growth funds invest in companies that are already making money, or at least have a established business model but that can be grown to create one order of magnitude more of values. Traditionally these funds can make also 15-18% returns on average with a bit less of risk than VCs (because the business has been shown feasible, but now it is a matter of figuring out if it can scale and grow --either internationally or to other markers/products--).
+  - Buyout funds invest in established companies that are not operating well or efficiently, the funds buy them to optimise them and improve their business squeezing additional returns from them. These are the lowest risk strategies but they also offer close to 15% on average with lower risk.
+  - Finally, there is the investment in real estate or infrastructure which has the lowest of the risks and offer around 10-12% returns on average.
+All these instruments should be balanced efficiently and not all should be included in the same box (as if private equity is always the same box).
