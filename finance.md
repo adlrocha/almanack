@@ -39,3 +39,5 @@
   - Buyout funds invest in established companies that are not operating well or efficiently, the funds buy them to optimise them and improve their business squeezing additional returns from them. These are the lowest risk strategies but they also offer close to 15% on average with lower risk.
   - Finally, there is the investment in real estate or infrastructure which has the lowest of the risks and offer around 10-12% returns on average.
 All these instruments should be balanced efficiently and not all should be included in the same box (as if private equity is always the same box).
+
+1. In investing, returns can either by consistent or erratic.I prefer consistent incremental growth. Filtering for linearity helps find companies that look like this (R² = 0.98):Look for companies that
