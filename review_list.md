@@ -1,6 +1,8 @@
 # Review List
 > Things to look back to and review every now and then.
 
+- [How to be successful](https://blog.samaltman.com/how-to-be-successful)
+
 ## 40 questions to ask yourself every year
 - What did you do this year that you’d never done before?
 - Did you keep your new year’s resolutions?

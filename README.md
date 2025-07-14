@@ -2,8 +2,8 @@
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International
+License][cc-by-nc-nd].
 
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
 
@@ -15,6 +15,7 @@ A piece of my mind and a way to share my knowledge without friction.
 
 - [Mental Models](./mental_models.md)
 - [Finance and Economics](./finance.md)
+- [Entrepreneurship](./entrepreneurship.md)
 - [Investment notes](./investment_notes.md)
 - [Review List](./review_list.md)
 - [Random Ideas](./ideas.md)
