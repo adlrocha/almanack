@@ -44,6 +44,7 @@ augmenter.
 ### Sources of inspiration for side-projects
 
 - https://www.financialdatasets.ai/
+- P2P DuckDB: https://github.com/n0-computer/iroh-duck
 - Stablecoins. Build upon the thesis of stablecoins becoming the collateral of the world instead of
   T-Bills. The liquidity spread of stablecoins and FIAT among networks and the need to optimise
   routing them according to use and maximising yield of idle cash.
