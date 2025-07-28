@@ -97,3 +97,6 @@
    a great proxy for interest rates and future inflation. We need to check how it is behaving
    compared to the aforementioned metrics _(reference: Chapter 10, from page 202 of Ray Dalio's "How
    countries go broke")_.
+1. When investing, minimising losses is as important in the long-run as maximising gains. A 50% loss
+   requires a 100% gain to get back to the original value. This is why it is important to have a
+   plan and stick to it, and know clearly what you are investing in and the risks involved.
