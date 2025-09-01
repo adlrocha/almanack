@@ -20,3 +20,4 @@ A piece of my mind and a way to share my knowledge without friction.
 - [Review List](./review_list.md)
 - [Random Ideas](./ideas.md)
 - [Bookmarks](./bookmarks.md)
+- [AI](./ai.md)
