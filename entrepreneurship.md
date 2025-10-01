@@ -12,3 +12,5 @@
 - [Pre-pitch meetings](https://techcrunch.com/2015/07/02/read-this-before-meeting-vcs-for-pre-pitch-advice/?ncid=rss)
 - [People love stories, not decks](https://jasonshellen.com/people-love-stories-not-decks-7ba0f87429f8)
 - [Pitch deck template](https://www.slideshare.net/slideshow/sequoia-capital-pitchdecktemplate/46231251) and [a killer slide-by-slide investor pitch](https://blog.mergelane.com/post/a-slide-by-slide-guide-to-a-killer-investor-pitch)
+- [Equals pitch deck](https://techcrunch.com/2024/02/16/sample-series-a-pitch-deck-equals/): A really good pitch deck to learn from.
+  - The actual pitch: https://equals-marketing-resources.s3.us-west-2.amazonaws.com/Series.A.Pitch.Deck.pdf

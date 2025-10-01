@@ -18,3 +18,7 @@
 
 ## Data Structures
 - [Cartesian Merkle Trees](https://arxiv.org/pdf/2504.10944)
+
+## AI
+- [LLM transformer visualisation](https://bbycroft.net/llm)
+- [Context engineering good practices](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
