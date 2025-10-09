@@ -21,3 +21,4 @@ A piece of my mind and a way to share my knowledge without friction.
 - [Random Ideas](./ideas.md)
 - [Bookmarks](./bookmarks.md)
 - [AI](./ai.md)
+- [HW](./hw.md)
