@@ -1,6 +1,9 @@
 # AI
 > Thoughts and references related to AI.
 
+## Learning
+- [NanoChat](https://github.com/karpathy/nanochat/tree/master): ChatGPT trained fromm scratch.
+
 ## Coding agents
 - [Goose](https://github.com/block/goose)
 - [Factory](https://factory.ai/)

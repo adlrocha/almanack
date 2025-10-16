@@ -19,6 +19,9 @@
 ## Data Structures
 - [Cartesian Merkle Trees](https://arxiv.org/pdf/2504.10944)
 
+## Web Dev
+- [Datastar: Lightweight framework for web dev](https://data-star.dev/): With server rendering and streaming.
+
 ## AI
 - [LLM transformer visualisation](https://bbycroft.net/llm)
 - [Context engineering good practices](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
