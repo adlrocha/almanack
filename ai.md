@@ -13,9 +13,15 @@
 - [Liquid Nanos](https://www.liquid.ai/blog/introducing-liquid-nanos-frontier-grade-performance-on-everyday-devices): Frontier-grade performance on small models.
   - [LFM-1B-Math](https://www.liquid.ai/research/lfm-1b-math-can-small-models-be-concise-reasoners): Detailed description of how it was installed.
   - [HF models](https://huggingface.co/collections/LiquidAI/liquid-nanos-68b98d898414dd94d4d5f99a)
+- [TOON](https://github.com/johannschopplich/toon): Text object-oriented notation to save tokens when interacting with LLMs
+- [NoF1.ai](https://nof1.ai/): Model crypto trading agents and portfolio comparison.
 
 ## Bookmarks
 - [RAG search and GraphRAG for financial data](https://substack.com/home/post/p-150951876)
+
+## Papers 
+- [Agentic context engineering](https://www.arxiv.org/pdf/2510.04618)
+- [Less is more: Recursive reasoning with tiny networks](https://arxiv.org/pdf/2510.04871v1)
 
 ## Trends
 > High-level trends and ideas
