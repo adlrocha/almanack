@@ -7,10 +7,18 @@
    distribution and the business model.
 1. Speed is what really matters in greenfield projects to get the first mover advantage.
 1. Create FOMO
+1. Never cold email investors, it doesn't work. Try to get warm intros from more than one person. This maximises the probability of getting a meeting.
+1. If an investor haven't said yes, they are a no! Keep bugging them until the actually reject you.
+1. Investors have an incentive to wait as much as possible to minimise their uncertainty and see what others will do. You need to create urgency on them.
+1. Investors are as afraid of investing in a losing horse, as of missing on a great opportunity. Frame yourself as the great opportunity.
+1. Understand the investment process for funds: there is an intro call, potential follow-up calls with other partners, investment committees, and due diligence. Be aware of the process and the overall timelines for that fund.
+1. Look at investors actions and not what they say. They will try to maximise their optionality by never rejecting you and keeping you on the wire as much as possible. That is why you need to fight for that clear no.
+1. Avoid investors who don't lead. Once you close a lead, filing up the round is way easier.
 
 ### Interesting articles
 - [Consensus Capital](https://stateofthefuture.substack.com/p/consensus-capital): The evolution of fundraising throughout history.
 - [Why Projects with no product raise more money: A simple game theory explanation](https://x.com/therosieum/status/1908478053988065462)
+- [Paul Graham's how to raise money](https://paulgraham.com/fr.html)
 
 ### Fundraising
 - [lessons from a first time fundraise](https://medium.com/@kajetan.armansperg/lessons-from-our-first-ever-fundraise-and-our-60m-series-a-pitch-deck-5c44f06efd91): Quite relevant and aligned with the feedback we've been given ourselves.
