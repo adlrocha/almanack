@@ -3,6 +3,10 @@
 
 ## Learning
 - [NanoChat](https://github.com/karpathy/nanochat/tree/master): ChatGPT trained fromm scratch.
+- [Smol Training Playbook](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
+  - [FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1): Building datasets at scale.
+  - [Ultra Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook): Orchestrating GPUs for a training run
+  - [Evaluation Guidebook](https://github.com/huggingface/evaluation-guidebook): Choose the right evaluations
 
 ## Coding agents
 - [Goose](https://github.com/block/goose)
