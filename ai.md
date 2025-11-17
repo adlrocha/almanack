@@ -22,6 +22,7 @@
 
 ## Bookmarks
 - [RAG search and GraphRAG for financial data](https://substack.com/home/post/p-150951876)
+- [LM Arena Leaderboard](https://lmarena.ai/leaderboard/text)
 
 ## Papers 
 - [Agentic context engineering](https://www.arxiv.org/pdf/2510.04618)
