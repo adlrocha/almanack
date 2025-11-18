@@ -28,6 +28,10 @@
 - [Agentic context engineering](https://www.arxiv.org/pdf/2510.04618)
 - [Less is more: Recursive reasoning with tiny networks](https://arxiv.org/pdf/2510.04871v1)
 
+## Evaluations
+- [Evalkit](https://github.com/evalkit/evalkit): Typescript LLM evaluations library.
+- [Opik](https://github.com/comet-ml/opik): LLM evaluation platform
+
 ## Trends
 > High-level trends and ideas
 
