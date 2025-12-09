@@ -100,3 +100,8 @@
 1. When investing, minimising losses is as important in the long-run as maximising gains. A 50% loss
    requires a 100% gain to get back to the original value. This is why it is important to have a
    plan and stick to it, and know clearly what you are investing in and the risks involved.
+
+## Resources
+- [My life is a lie (part 1)](https://www.yesigiveafig.com/p/part-1-my-life-is-a-lie): Why the poverty line is not within the threshold the government sets, 
+and why the middle class no longer exists. Spoiler alert: it's hard to do a decent living anymore
+without 140k$/year.
