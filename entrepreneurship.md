@@ -7,6 +7,7 @@
    distribution and the business model.
 1. Speed is what really matters in greenfield projects to get the first mover advantage.
 1. Create FOMO
+1. Every investor interaction should be forward moving: "hey, I'm sharing this update, how's the process on your side", "we reached this great milestone, ready for a follow-up?", "we faced this issue, want to brainstorm a fix?".
 1. Never cold email investors, it doesn't work. Try to get warm intros from more than one person. This maximises the probability of getting a meeting.
 1. If an investor haven't said yes, they are a no! Keep bugging them until the actually reject you.
 1. Investors have an incentive to wait as much as possible to minimise their uncertainty and see what others will do. You need to create urgency on them.
