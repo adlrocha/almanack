@@ -15,11 +15,13 @@
 1. Look at investors actions and not what they say. They will try to maximise their optionality by never rejecting you and keeping you on the wire as much as possible. That is why you need to fight for that clear no.
 1. Avoid investors who don't lead. Once you close a lead, filing up the round is way easier.
 1. The key KPI/metric to consider on a B2B business and to understand its moat and performance is the rate `Deal Size / Deal Close Time`. The bigger the deals and the less time it requires to close them, the better business it is. This metric is also useful to compare different businesses in the same industry.
+1. Use the smile curve to identify a market opportunity. The bulk of value extraction in the market is in the edges: either that who owns the infrastructure (Nvidia), or the one that owns the users (ChatGPT). The low part of the smiley curve is where the brutal competition happens and where the opportunities for value accrual is lower.
 
 ### Interesting articles
 - [Consensus Capital](https://stateofthefuture.substack.com/p/consensus-capital): The evolution of fundraising throughout history.
 - [Why Projects with no product raise more money: A simple game theory explanation](https://x.com/therosieum/status/1908478053988065462)
 - [Paul Graham's how to raise money](https://paulgraham.com/fr.html)
+- [Why Startups Die](https://www.techfounderstack.com/p/why-startups-die)
 
 ### Fundraising
 - [lessons from a first time fundraise](https://medium.com/@kajetan.armansperg/lessons-from-our-first-ever-fundraise-and-our-60m-series-a-pitch-deck-5c44f06efd91): Quite relevant and aligned with the feedback we've been given ourselves.
