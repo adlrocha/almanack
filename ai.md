@@ -11,6 +11,8 @@
 ## Coding agents
 - [Goose](https://github.com/block/goose)
 - [Factory](https://factory.ai/)
+- [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+- [Claude-mem](https://github.com/thedotmack/claude-mem): Persist memory of claude code between sessions
 
 ## Projects
 - [KumoRFM](https://github.com/kumo-ai/kumo-rfm): A foundation model for business data. Predictions over structured data.
@@ -19,6 +21,14 @@
   - [HF models](https://huggingface.co/collections/LiquidAI/liquid-nanos-68b98d898414dd94d4d5f99a)
 - [TOON](https://github.com/johannschopplich/toon): Text object-oriented notation to save tokens when interacting with LLMs
 - [NoF1.ai](https://nof1.ai/): Model crypto trading agents and portfolio comparison.
+
+## Infrastructure
+- [Ray](https://github.com/ray-project/ray): Ray is a unified framework for scaling AI and Python applications. 
+
+## Agent environments
+> Current dev tools target human developers, we need infrastructure targeting agents
+- [Sketch.dev](https://sketch.dev/): Coding agents that run as a standalone process with an end-to-end code commit workflow.
+- [exe.dev](https://exe.dev): Isolated containers and development flow for coding agents
 
 ## Bookmarks
 - [RAG search and GraphRAG for financial data](https://substack.com/home/post/p-150951876)
