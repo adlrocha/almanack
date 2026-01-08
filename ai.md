@@ -21,6 +21,7 @@
   - [HF models](https://huggingface.co/collections/LiquidAI/liquid-nanos-68b98d898414dd94d4d5f99a)
 - [TOON](https://github.com/johannschopplich/toon): Text object-oriented notation to save tokens when interacting with LLMs
 - [NoF1.ai](https://nof1.ai/): Model crypto trading agents and portfolio comparison.
+- [Alpamayo and self-driving ecosystem from nvidia](https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development?lid=2tyHMkOcG41lpAHh)
 
 ## Infrastructure
 - [Ray](https://github.com/ray-project/ray): Ray is a unified framework for scaling AI and Python applications. 
@@ -41,6 +42,7 @@
 ## Evaluations
 - [Evalkit](https://github.com/evalkit/evalkit): Typescript LLM evaluations library.
 - [Opik](https://github.com/comet-ml/opik): LLM evaluation platform
+- [Evaluating deep agents](https://x.com/LangChain/status/2006589207196930109): Some learnings from LangChain.
 
 ## Trends
 > High-level trends and ideas

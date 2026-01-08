@@ -25,6 +25,7 @@
 ## AI
 - [LLM transformer visualisation](https://bbycroft.net/llm)
 - [Context engineering good practices](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+- [AI is forcing us to write good code](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ## Prediction Markets
 - [How to profit on Kalshi](https://www.reddit.com/r/Kalshi/comments/1p84oo2/how_to_profit_on_kalshi_a_guide/)
