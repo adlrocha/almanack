@@ -13,6 +13,7 @@
 - [Factory](https://factory.ai/)
 - [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 - [Claude-mem](https://github.com/thedotmack/claude-mem): Persist memory of claude code between sessions
+- [Claude code setup](https://x.com/bcherny/status/2007179832300581177?s=20): Walk through of the setup from the Claude team for claude code.
 
 ## Projects
 - [KumoRFM](https://github.com/kumo-ai/kumo-rfm): A foundation model for business data. Predictions over structured data.

@@ -14,6 +14,7 @@ License][cc-by-nc-nd].
 A piece of my mind and a way to share my knowledge without friction.
 
 - [Mental Models](./mental_models.md)
+- [Life](./life.md)
 - [Finance and Economics](./finance.md)
 - [Entrepreneurship](./entrepreneurship.md)
 - [Investment notes](./investment_course.md)
