@@ -190,6 +190,8 @@ Build a GPT-like decoder-only model from scratch, the architecture behind ChatGP
 - **Tutorial:**
   - Andrej Karpathy's "Let's build GPT" video - https://www.youtube.com/watch?v=kCc8FmEb1nY
   - nanoGPT repository - https://github.com/karpathy/nanoGPT
+  - nanoChat repository - https://github.com/karpathy/nanochat
+    - Check discussions for additional descriptions: https://github.com/karpathy/nanochat/discussions?discussions_q=author%3Akarpathy+
 - **Blog:** "The Illustrated GPT-2" by Jay Alammar
 - **Code:** Decoder-Only Transformers tutorial - https://cameronrwolfe.substack.com/p/decoder-only-transformers
 
