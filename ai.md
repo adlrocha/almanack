@@ -1,7 +1,9 @@
 # AI
+>
 > Thoughts and references related to AI.
 
 ## Learning
+
 - [NanoChat](https://github.com/karpathy/nanochat/tree/master): ChatGPT trained fromm scratch.
 - [Smol Training Playbook](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
   - [FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1): Building datasets at scale.
@@ -9,6 +11,7 @@
   - [Evaluation Guidebook](https://github.com/huggingface/evaluation-guidebook): Choose the right evaluations
 
 ## Coding agents
+
 - [Goose](https://github.com/block/goose)
 - [Factory](https://factory.ai/)
 - [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
@@ -16,6 +19,7 @@
 - [Claude code setup](https://x.com/bcherny/status/2007179832300581177?s=20): Walk through of the setup from the Claude team for claude code.
 
 ## Projects
+
 - [KumoRFM](https://github.com/kumo-ai/kumo-rfm): A foundation model for business data. Predictions over structured data.
 - [Liquid Nanos](https://www.liquid.ai/blog/introducing-liquid-nanos-frontier-grade-performance-on-everyday-devices): Frontier-grade performance on small models.
   - [LFM-1B-Math](https://www.liquid.ai/research/lfm-1b-math-can-small-models-be-concise-reasoners): Detailed description of how it was installed.
@@ -25,29 +29,46 @@
 - [Alpamayo and self-driving ecosystem from nvidia](https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development?lid=2tyHMkOcG41lpAHh)
 
 ## Infrastructure
-- [Ray](https://github.com/ray-project/ray): Ray is a unified framework for scaling AI and Python applications. 
+
+- [Ray](https://github.com/ray-project/ray): Ray is a unified framework for scaling AI and Python applications.
 
 ## Agent environments
+>
 > Current dev tools target human developers, we need infrastructure targeting agents
+
 - [Sketch.dev](https://sketch.dev/): Coding agents that run as a standalone process with an end-to-end code commit workflow.
 - [exe.dev](https://exe.dev): Isolated containers and development flow for coding agents
 
 ## Bookmarks
+
 - [RAG search and GraphRAG for financial data](https://substack.com/home/post/p-150951876)
 - [LM Arena Leaderboard](https://lmarena.ai/leaderboard/text)
 
-## Papers 
+## Papers
+
 - [Agentic context engineering](https://www.arxiv.org/pdf/2510.04618)
 - [Less is more: Recursive reasoning with tiny networks](https://arxiv.org/pdf/2510.04871v1)
 
 ## Evaluations
+
 - [Evalkit](https://github.com/evalkit/evalkit): Typescript LLM evaluations library.
 - [Opik](https://github.com/comet-ml/opik): LLM evaluation platform
 - [Evaluating deep agents](https://x.com/LangChain/status/2006589207196930109): Some learnings from LangChain.
 
 ## Trends
+>
 > High-level trends and ideas
 
 - Environments are a key asset to train AIs through RL. The closer the training environment is to the real one, the better it will end up operating. In the coming years I expect the programming of RL environments for AI to be as important as wiring the agents themselves (esp. for robotics and real world --analogous and flawed environments--). See [prime intellect's](https://www.primeintellect.ai/) RL environments as the seed for this trend.
-- Small language models outperform LLMs for agentic behavior: 
-  - See paper: https://arxiv.org/pdf/2510.03847
+- Small language models outperform LLMs for agentic behavior:
+  - See paper: <https://arxiv.org/pdf/2510.03847>
+
+## Tutorials
+
+- [Claude code with local models](https://x.com/dr_cintas/status/2014380662300533180)
+- [GLM local deployment tutorial](https://onedollarvps.com/es/blogs/how-to-use-glm-4-7-for-free#acceso-gratuito-a-traves-de-vercel)
+
+## Agent sandboxes
+
+- [Sprites](https://sprites.dev/)
+- [Exe.dev](https://exe.dev)
