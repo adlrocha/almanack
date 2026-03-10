@@ -5,6 +5,8 @@
 1. Save and invest since an early age. If you don't make huge mistakes and you manage risk the
    compound interest will do the rest for you.
 
+1. Focus on increasing your income, not on cutting your spend. Learn how to make money
+
 1. Manage risk and minimise your losses. Invest in assets that you understand and that you are
    convinced about the theses behind them. That way you won't panic when the market goes down. Noob
    investors tend to behave when they face their first bear market like a diver that has a problem
@@ -102,6 +104,7 @@
    plan and stick to it, and know clearly what you are investing in and the risks involved.
 
 ## Resources
-- [My life is a lie (part 1)](https://www.yesigiveafig.com/p/part-1-my-life-is-a-lie): Why the poverty line is not within the threshold the government sets, 
+
+- [My life is a lie (part 1)](https://www.yesigiveafig.com/p/part-1-my-life-is-a-lie): Why the poverty line is not within the threshold the government sets,
 and why the middle class no longer exists. Spoiler alert: it's hard to do a decent living anymore
 without 140k$/year.

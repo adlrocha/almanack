@@ -54,6 +54,7 @@
 - [Evalkit](https://github.com/evalkit/evalkit): Typescript LLM evaluations library.
 - [Opik](https://github.com/comet-ml/opik): LLM evaluation platform
 - [Evaluating deep agents](https://x.com/LangChain/status/2006589207196930109): Some learnings from LangChain.
+- [Anthropic post on agnets evaluations](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
 
 ## Trends
 >
