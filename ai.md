@@ -9,6 +9,7 @@
   - [FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1): Building datasets at scale.
   - [Ultra Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook): Orchestrating GPUs for a training run
   - [Evaluation Guidebook](https://github.com/huggingface/evaluation-guidebook): Choose the right evaluations
+- [Claude agent teams](https://code.claude.com/docs/en/agent-teams): By having a team of agents each have its own context window and share information through their outputs that are fed as inputs to other agents.
 
 ## Coding agents
 

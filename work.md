@@ -32,3 +32,5 @@ Industry: industries with high leverage and growth potential. For example, there
 1. The counterintuitive thing here is an average team can hit a home run solving the right problem at the right time, whereas an extraordinary team can struggle solving the wrong problem at the wrong time.
 
 1. "Global averages may be local maxima". Is sometimes good to have this mind as you reflect on your product or your career. . An average value proposition globally may be a perfect fit on a local environment.
+
+1. Always design tasks delegated to an agent with the feedback loop in mind so they can work autonomously for longer and verify their own work
