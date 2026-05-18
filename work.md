@@ -34,3 +34,5 @@ Industry: industries with high leverage and growth potential. For example, there
 1. "Global averages may be local maxima". Is sometimes good to have this mind as you reflect on your product or your career. . An average value proposition globally may be a perfect fit on a local environment.
 
 1. Always design tasks delegated to an agent with the feedback loop in mind so they can work autonomously for longer and verify their own work
+
+1. Write a paragraph about why I should take a meeting. If you should take the meeting it's easy to do, but if you start writing and you're like. “I don’t want to do this,” then the meeting is a waste of time.  "For the things that I think are really important when I’m like, “I got to write that paragraph, I could write 20 pages. It's easy” A lot of otherwise smart people, don't spend enough time thinking about what they're working on.
